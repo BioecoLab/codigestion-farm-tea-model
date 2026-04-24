@@ -4,7 +4,7 @@
 ## Overview
 In this study, we propose a co-digestion system of dairy manure with switchgrass, winter rye, and corn stover in a dairy farm setting, referred to as ["Grass-to-Gas"](https://cchange.research.iastate.edu/grass2gas) (G2G). A BioSTEAM process model was developed to simulate farm-scale anaerobic digestion (AD) systems under multiple feedstock and process configurations. Two biomass supply conditions were evaluated: biomass grown on-farm and biomass purchased externally. Energy conversion pathways included electricity generation via combined heat and power (CHP) unit and renewable natural gas (RNG) production through biogas upgrading.
 
-![Process flow diagram](docs/images/RNG_model.png)
+![Process flow diagram](/docs/images/RNG_model.png)
 
 ## Scenarios
 - System: 1,000-cow dairy farm
