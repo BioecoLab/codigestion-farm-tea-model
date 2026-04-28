@@ -1,4 +1,7 @@
 # Lignocellulosic biomass co-digestion in dairy farms
+
+**Authors:** Camila Valderrama, Elmin Rahic, Hunter Porcano, Juliana Vasco-Correa
+
 [BioSTEAM](https://biosteam.readthedocs.io/en/latest/index.html)-based models for techno-economic and uncertainty analysis of anaerobic digestion systems using dairy manure and lignocellulosic co-digestion. Supports electricity and renewable natural gas pathways with modules for simulation, cost estimation, and Monte Carlo analysis.
 
 ## Overview
@@ -48,6 +51,11 @@ To run the model:
     - [System_RNG_g.py](System_RNG_g.py) for renewable natural gas simulations.
 3. Results (e.g., NPV, IRR, TCI, production metrics) are generated from the system simulation.
 
+## How to cite:
+Valderrama, C.; Rahic, E.; Porcano, H.; Vasco-Correa, J. (2026). *Lignocellulosic biomass co-digestion in dairy farms*. GitHub repository. https://github.com/BioecoLab/codigestion-farm-tea-model (accessed Month Day, Year).
+
 ## Related publications:
 Valderrama, C. (2026). Techno-economic feasibility study of renewable natural gas production for dairy farms (Master’s thesis, The Pennsylvania State University).
+
+Valderrama C, Rahic E, Porcano H, et al (2026) Data for: Feasibility of Grass-to-Gas on Dairy Farms: A Probabilistic Techno-Economic Comparison of Renewable Natural Gas and Electricity Production [Data set]. ScholarSphere. https://doi.org/10.26207/h8ad-e347
 
